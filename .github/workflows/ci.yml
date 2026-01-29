@@ -24,4 +24,4 @@ jobs:
           echo "style.css exists"
 
       - name: CI success
-        run: echo "Build s
+        run: echo "Build successful!"
